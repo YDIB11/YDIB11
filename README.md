@@ -10,7 +10,6 @@ I’m an M.Sc. student in Electrical & Electronics Engineering (focus: Machine L
 - 🌐 **Languages:** French, English, Arabic
 - ⚡ **Fun fact:** I love squeezing performance out of tiny systems—and then making the plots look good.
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/youssef-dib-8a9350362" target="_blank">
@@ -18,7 +17,8 @@ I’m an M.Sc. student in Electrical & Electronics Engineering (focus: Machine L
   </a>
 </p>
 
-------
+---
+
 <h3 align="left">Activity:</h3>
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YDIB11&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/YDIB11)
@@ -32,12 +32,13 @@ I’m an M.Sc. student in Electrical & Electronics Engineering (focus: Machine L
 
 <p align="center">
   <a href="https://github.com/YDIB11">
-    <img src="https://streak-stats.demolab.com?user=YDIB11&theme=tokyonight" alt="Contribution streak"/>
+    <img src="https://streak-stats.demolab.com?user=YDIB11&theme=tokyonight&hide_border=true&v=2"
+         alt="Contribution streak"/>
   </a>
 </p>
 
+---
 
-------
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
