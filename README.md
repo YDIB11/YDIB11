@@ -12,10 +12,12 @@ I’m an M.Sc. student in Electrical & Electronics Engineering (focus: Machine L
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/youssef-dib-8a9350362" target="_blank">
-    <i class="devicon-linkedin-plain colored" title="LinkedIn" style="font-size:40px;"></i>
+  <a href="https://www.linkedin.com/in/youssef-dib-8a9350362" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40" height="40">
   </a>
 </p>
+
 
 ---
 
