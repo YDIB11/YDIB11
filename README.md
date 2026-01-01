@@ -25,19 +25,6 @@ I’m an M.Sc. student in Electrical & Electronics Engineering (focus: Machine L
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YDIB11&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/YDIB11)
 
-<div align="center">
-  <a href="https://github.com/YDIB11">
-    <img height="180em" src="https://github-readme-stats-six-chi-23.vercel.app/api/top-langs?username=YDIB11&show_icons=true&layout=compact&theme=tokyonight&exclude_repo=BasketFrenzy"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YDIB11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/YDIB11">
-    <img src="https://streak-stats.demolab.com?user=YDIB11&theme=tokyonight&hide_border=true&v=2"
-         alt="Contribution streak"/>
-  </a>
-</p>
 
 ---
 
