@@ -28,12 +28,10 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 
 ---
 
-### 📊 Stats
+### 📊 Total Contributions
 
 <div align="center">
-  <a href="https://github.com/YDIB11">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YDIB11&theme=tokyonight&hide_border=true&background=0D1117&ring=4c5e9e&fire=FF6B6B&currStreakLabel=4c5e9e&sideLabels=9f9f9f&dates=9f9f9f" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=YDIB11&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </div>
 
 ---
