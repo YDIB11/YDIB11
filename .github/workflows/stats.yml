@@ -1,0 +1,47 @@
+name: Generate Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Generate Stats Card
+        uses: anuraghazra/github-readme-stats-action@main
+        with:
+          GRS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GRS_REPOSITORY: YDIB11/YDIB11
+          GRS_OUTPUT_FOLDER: stats
+          GRS_CARDS: stats,repos-per-language,most-commit-language
+          GRS_THEME: tokyonight
+          GRS_STAT_OPTIONS: |
+            show_icons=true
+            hide_border=true
+            bg_color=0D1117
+            title_color=4c5e9e
+            icon_color=4c569e
+            text_color=9f9f9f
+            include_all_commits=true
+            count_private=true
+            
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add stats/
+          git diff --staged --quiet || git commit -m "Update stats cards"
+          git push
