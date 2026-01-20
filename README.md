@@ -30,60 +30,20 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 
 ### 📊 GitHub Stats
 
-<!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YDIB11&theme=tokyonight&hide_border=true&background=0D1117&ring=4c5e9e&fire=FF6B6B&currStreakLabel=4c5e9e&sideLabels=9f9f9f&dates=9f9f9f" height="180" />
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YDIB11&bg_color=0D1117&color=4c5e9e&line=4c569e&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-<br/>
-
-<!-- Self-hosted Stats (generated via GitHub Action) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
-    <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-    <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="400" alt="Top Languages by Repo" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-    <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="400" alt="Top Languages by Commit" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/3-stats.svg" />
-    <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="400" alt="Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
-    <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="400" alt="Productive Time" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=YDIB11&theme=tokyonight&hide_border=true&background=0D1117&ring=4c5e9e&fire=FF6B6B&currStreakLabel=4c5e9e&sideLabels=9f9f9f&dates=9f9f9f" />
 </div>
 
 ---
 
-### 🐍 Contributions
+### 🐍 Total Contributions
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YDIB11/YDIB11/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YDIB11/YDIB11/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YDIB11/YDIB11/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/YDIB11/YDIB11/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
-  
-  <sub>🔄 Auto-updated daily</sub>
 </div>
 
 ---
