@@ -36,6 +36,12 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 
 ---
 
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YDIB11&bg_color=0D1117&color=4c5e9e&line=4c569e&point=FFFFFF&area=true&hide_border=true&custom_title=Contributions" width="100%"/>
+
+---
+
 ### 🐍 Contribution Snake
 
 <div align="center">
