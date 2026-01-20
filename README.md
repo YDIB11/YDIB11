@@ -1,108 +1,100 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4C5E9E&center=true&vCenter=true&random=false&width=600&lines=Hello+%F0%9F%8C%8E%2C+I'm+Youssef+Dib;M.Sc.+EE+%7C+ML+%26+AI+Focus;Where+Software+Meets+Hardware)](https://git.io/typing-svg)
 
-### Hello 🌎, I'm Youssef Dib
+![Profile Views](https://komarev.com/ghpvc/?username=YDIB11&color=4c5e9e&style=flat-square&label=Profile+Views)
 
-I’m an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Learning and AI). I like building things where **software meets hardware**, from analytical models for metasurfaces to FPGA graphics and microcontroller projects. I care about clean, reproducible code, readable docs, and turning ideas into working prototypes.
+</div>
 
-- 🔭 **Currently working on:** improving my **React Native** coding skills and refining my **trading** workflow (journaling, backtesting, risk rules).
-- 🌱 **Learning:** Applied Data Analysis (data wrangling → ML pipelines); Convex Optimization (modeling & algorithms); Design for Sustainability I; Fundamentals of Inference & Learning (statistics + core ML).
-- 🧰 Style: Precise, minimal and robust no fluff.
-- 🌐 **Languages:** French, English, Arabic
-- ⚡ **Fun fact:** The harder the problem, the better my results.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/youssef-dib-8a9350362" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn" width="40" height="40">
+### 👨‍💻 About Me
+
+I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Learning and AI). I like building things where **software meets hardware**—from analytical models for metasurfaces to FPGA graphics and microcontroller projects. I care about clean, reproducible code, readable docs, and turning ideas into working prototypes.
+
+<table>
+<tr><td>🔭</td><td><b>Working on:</b> Improving my <b>React Native</b> skills & refining my <b>trading</b> workflow</td></tr>
+<tr><td>🌱</td><td><b>Learning:</b> Applied Data Analysis • Convex Optimization • Design for Sustainability • ML Fundamentals</td></tr>
+<tr><td>🧰</td><td><b>Style:</b> Precise, minimal, robust—no fluff</td></tr>
+<tr><td>🌐</td><td><b>Languages:</b> French • English • Arabic</td></tr>
+<tr><td>⚡</td><td><b>Fun fact:</b> The harder the problem, the better my results</td></tr>
+</table>
+
+<p>
+  <a href="https://www.linkedin.com/in/youssef-dib-8a9350362" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YDIB11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4c5e9e&icon_color=4c569e&text_color=9f9f9f&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=YDIB11&theme=tokyonight&hide_border=true&background=0D1117&ring=4c5e9e&fire=FF6B6B&currStreakLabel=4c5e9e&sideLabels=9f9f9f&dates=9f9f9f" height="180" />
+</div>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YDIB11&bg_color=0D1117&color=4c5e9e&line=4c569e&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 ---
 
-<h3 align="left">Activity:</h3>
+### 🐍 Contribution Snake
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YDIB11&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/YDIB11)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YDIB11/YDIB11/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YDIB11/YDIB11/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YDIB11/YDIB11/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
-<h3 align="left">Languages & Tools</h3>
+### 🛠️ Tech Stack
 
-<table>
-  <!-- Programming / Backend -->
-  <tr>
-    <td style="font-weight:bold; padding-right:10px; vertical-align:middle;">Programming:</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=python,cpp,java,cs,js,nodejs" />
-    </td>
-  </tr>
+<div align="center">
 
-  <!-- Frontend / Mobile -->
-  <tr>
-    <td style="font-weight:bold; padding-right:10px; vertical-align:middle;">Frontend & Mobile:</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=react,html,css" />
-      <!-- React Native / Expo (badges) -->
-      <img src="https://img.shields.io/badge/React%20Native-05122A?logo=react&logoColor=61DAFB" height="24" />
-      <img src="https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white" height="24" />
-    </td>
-  </tr>
+#### Programming & Backend
+<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js,nodejs&theme=dark" />
 
-  <!-- Data / ML -->
-  <tr>
-    <td style="font-weight:bold; padding-right:10px; vertical-align:middle;">Data & ML:</td>
-    <td>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" height="24" />
-      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="24" />
-      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="24" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white" height="24" />
-    </td>
-  </tr>
+#### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=white" />
 
-  <!-- Embedded / Digital -->
-  <tr>
-    <td style="font-weight:bold; padding-right:10px; vertical-align:middle;">Embedded & Digital:</td>
-    <td>
-      <img src="https://img.shields.io/badge/VHDL%2FFPGA-6E4C13" height="24" />
-      <img src="https://img.shields.io/badge/Microcontrollers-C%2FAssembly-555555" height="24" />
-      <img src="https://img.shields.io/badge/Logisim-0B6E4F" height="24" />
-    </td>
-  </tr>
+#### Data & Machine Learning
+<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=11557c" />
 
-  <!-- Scientific / CAD -->
-  <tr>
-    <td style="font-weight:bold; padding-right:10px; vertical-align:middle;">Scientific & CAD:</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=latex" />
-      <img src="https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white" height="24" />
-      <img src="https://img.shields.io/badge/MATLAB%20%2F%20Simulink-E16737?logo=mathworks&logoColor=white" height="24" />
-      <img src="https://img.shields.io/badge/LabVIEW-FFD700" height="24" />
-      <img src="https://img.shields.io/badge/CATIA-00205B" height="24" />
-    </td>
-  </tr>
+#### Embedded & Digital Design
+<img src="https://img.shields.io/badge/VHDL%2FFPGA-0D1117?style=for-the-badge&logo=xilinx&logoColor=E01F27" />
+<img src="https://img.shields.io/badge/Microcontrollers-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D" />
 
-  <!-- Version control / Dev tools -->
-  <tr>
-    <td style="font-weight:bold; padding-right:10px; vertical-align:middle;">Version Control & Dev Tools:</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=git,github,vscode" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="24" />
-      <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" height="24" />
-    </td>
-  </tr>
+#### Scientific & CAD
+<img src="https://skillicons.dev/icons?i=latex,matlab&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Overleaf-0D1117?style=for-the-badge&logo=overleaf&logoColor=47A141" />
+<img src="https://img.shields.io/badge/MATLAB%20%2F%20Simulink-0D1117?style=for-the-badge&logo=mathworks&logoColor=orange" />
+<img src="https://img.shields.io/badge/LabVIEW-0D1117?style=for-the-badge&logo=labview&logoColor=FFDB00" />
+<img src="https://img.shields.io/badge/CATIA-0D1117?style=for-the-badge&logo=dassaultsystemes&logoColor=005386" />
 
-  <!-- Operating systems -->
-  <tr>
-    <td style="font-weight:bold; padding-right:10px; vertical-align:middle;">Operating Systems:</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=ubuntu,windows,linux" />
-    </td>
-  </tr>
-</table>
+#### Dev Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=0A9EDC" />
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+#### Operating Systems
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" />
 
+</div>
 
-the end.
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4c5e9e&height=100&section=footer"/>
+</div>
