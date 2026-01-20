@@ -31,7 +31,6 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YDIB11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4c5e9e&icon_color=4c569e&text_color=9f9f9f&count_private=true" height="180" />
   <img src="https://streak-stats.demolab.com?user=YDIB11&theme=tokyonight&hide_border=true&background=0D1117&ring=4c5e9e&fire=FF6B6B&currStreakLabel=4c5e9e&sideLabels=9f9f9f&dates=9f9f9f" height="180" />
 </div>
 
@@ -42,7 +41,12 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YDIB11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4c5e9e&icon_color=4c569e&text_color=9f9f9f&include_all_commits=true&count_private=true&custom_title=Lifetime%20Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YDIB11&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YDIB11&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YDIB11&theme=tokyonight&utcOffset=1" height="180" />
 </div>
 
 ---
