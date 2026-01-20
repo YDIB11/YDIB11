@@ -36,7 +36,7 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 
 ---
 
-### 🐍 Last 12 Months
+### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
