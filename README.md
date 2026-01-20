@@ -39,6 +39,12 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YDIB11&bg_color=0D1117&color=4c5e9e&line=4c569e&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YDIB11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4c5e9e&icon_color=4c569e&text_color=9f9f9f&include_all_commits=true&count_private=true&custom_title=Lifetime%20Stats" height="180" />
+</div>
+
 ---
 
 ### 🐍 Contribution Snake
