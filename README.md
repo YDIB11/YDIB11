@@ -31,7 +31,7 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 ### 📊 Total Contributions
 
 <div align="center">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YDIB11&show_icons=true)" />
+  <img src="!https://github-readme-stats.vercel.app/api?username=YDIB11&show_icons=true" />
 </div>
 
 ---
