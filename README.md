@@ -47,8 +47,6 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
   <img src="https://raw.githubusercontent.com/YDIB11/YDIB11/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> **Note:** If the snake doesn't appear, go to your repo's **Actions** tab → **Generate Snake Animation** → **Run workflow**
-
 ---
 
 ### 🛠️ Tech Stack
