@@ -31,7 +31,7 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 ### 📊 Total Contributions
 
 <div align="center">
-  <img src="./stats/stats.svg" alt="GitHub Stats" />
+  <img src="https://my-github-stats-git-main-ydib11s-projects.vercel.app/api?username=YDIB11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4c5e9e&icon_color=4c569e&text_color=9f9f9f&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
