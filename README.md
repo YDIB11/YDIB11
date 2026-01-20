@@ -10,12 +10,12 @@
 
 ### 👨‍💻 About Me
 
-I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Learning and AI). I like building things where **software meets hardware**—from analytical models for metasurfaces to FPGA graphics and microcontroller projects. I care about clean, reproducible code, readable docs, and turning ideas into working prototypes.
+I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Learning and AI). I like building things where **software meets hardware**, from analytical models for metasurfaces to FPGA graphics and microcontroller projects. I care about clean, reproducible code, readable docs, and turning ideas into working prototypes.
 
 <table>
 <tr><td>🔭</td><td><b>Working on:</b> Improving my <b>React Native</b> skills & refining my <b>trading</b> workflow</td></tr>
 <tr><td>🌱</td><td><b>Learning:</b> Applied Data Analysis • Convex Optimization • Design for Sustainability • ML Fundamentals</td></tr>
-<tr><td>🧰</td><td><b>Style:</b> Precise, minimal, robust—no fluff</td></tr>
+<tr><td>🧰</td><td><b>Style:</b> Precise, minimal, robust. No fluff</td></tr>
 <tr><td>🌐</td><td><b>Languages:</b> French • English • Arabic</td></tr>
 <tr><td>⚡</td><td><b>Fun fact:</b> The harder the problem, the better my results</td></tr>
 </table>
