@@ -30,7 +30,7 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 
 ### 📊 Total Contributions
 <div align="center">
-  <img src="https://github-readme-stats-4u4d07xe0-ydib11s-projects.vercel.app/api?username=YDIB11&theme=tokyonight />
+  [![Anurag's GitHub stats](https://github-readme-stats-4u4d07xe0-ydib11s-projects.vercel.app?username=YDIB11)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
