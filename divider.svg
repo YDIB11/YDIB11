@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4" viewBox="0 0 1200 4" fill="none">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117">
+        <animate attributeName="stop-color" values="#0D1117;#1a1f36;#2d3a6d;#4c5e9e;#6b7fc9;#4c5e9e;#2d3a6d;#1a1f36;#0D1117" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="25%" stop-color="#1a1f36">
+        <animate attributeName="stop-color" values="#1a1f36;#2d3a6d;#4c5e9e;#6b7fc9;#4c5e9e;#2d3a6d;#1a1f36;#0D1117;#1a1f36" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#4c5e9e">
+        <animate attributeName="stop-color" values="#4c5e9e;#6b7fc9;#4c5e9e;#2d3a6d;#1a1f36;#0D1117;#1a1f36;#2d3a6d;#4c5e9e" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="75%" stop-color="#6b7fc9">
+        <animate attributeName="stop-color" values="#6b7fc9;#4c5e9e;#2d3a6d;#1a1f36;#0D1117;#1a1f36;#2d3a6d;#4c5e9e;#6b7fc9" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#4c5e9e">
+        <animate attributeName="stop-color" values="#4c5e9e;#2d3a6d;#1a1f36;#0D1117;#1a1f36;#2d3a6d;#4c5e9e;#6b7fc9;#4c5e9e" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="4" rx="2" fill="url(#grad)"/>
+</svg>
