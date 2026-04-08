@@ -6,7 +6,9 @@
 
 </div>
 
----
+<picture>
+  <img src="https://raw.githubusercontent.com/YDIB11/YDIB11/main/divider.svg" width="100%">
+</picture>
 
 ### 👨‍💻 About Me
 
@@ -26,7 +28,9 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
   </a>
 </p>
 
----
+<picture>
+  <img src="https://raw.githubusercontent.com/YDIB11/YDIB11/main/divider.svg" width="100%">
+</picture>
 
 ### 🚀 Featured Projects
 
@@ -66,14 +70,18 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 </tr>
 </table>
 
----
+<picture>
+  <img src="https://raw.githubusercontent.com/YDIB11/YDIB11/main/divider.svg" width="100%">
+</picture>
 
 ### 📊 Total Contributions
 <div align="center">
   <img src="https://github-readme-stats-six-lovat-57.vercel.app/api?username=YDIB11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4c5e9e&icon_color=4c569e&text_color=9f9f9f&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
----
+<picture>
+  <img src="https://raw.githubusercontent.com/YDIB11/YDIB11/main/divider.svg" width="100%">
+</picture>
 
 ### 🐍 Contribution Snake
 
@@ -85,67 +93,75 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
   </picture>
 </div>
 
----
+<picture>
+  <img src="https://raw.githubusercontent.com/YDIB11/YDIB11/main/divider.svg" width="100%">
+</picture>
 
 ### 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="140"><b>💻 Languages</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js,ts&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🌐 Frontend</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
-      <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" height="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 ML & Data</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚡ Embedded</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/VHDL/FPGA-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔬 Scientific</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=latex,matlab&theme=dark" />
-      <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" height="30"/>
-      <img src="https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" height="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🛠️ Dev Tools</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🖥️ OS</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+<p><code>Languages</code></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js,ts&theme=dark" />
+</p>
+
+<p><code>Frontend & Mobile</code></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" height="28"/>
+</p>
+
+<p><code>ML & Data</code></p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+</p>
+
+<p><code>Embedded</code></p>
+<p>
+  <img src="https://img.shields.io/badge/VHDL/FPGA-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="28"/>
+</p>
+
+<p><code>Scientific</code></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=latex,matlab&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" height="28"/>
+</p>
+
+<p><code>Dev Tools & OS</code></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,windows&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="28"/>
+</p>
+
+</div>
+
+<picture>
+  <img src="https://raw.githubusercontent.com/YDIB11/YDIB11/main/divider.svg" width="100%">
+</picture>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4c5e9e&height=100&section=footer"/>
