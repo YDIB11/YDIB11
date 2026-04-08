@@ -13,11 +13,11 @@
 I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Learning and AI). I like building things where **software meets hardware**, from analytical models for metasurfaces to FPGA graphics and microcontroller projects. I care about clean, reproducible code, readable docs, and turning ideas into working prototypes.
 
 <table>
-<tr><td>🔭</td><td><b>Working on:</b> Improving my <b>React Native</b> skills & refining my <b>trading</b> workflow</td></tr>
+<tr><td>🔭</td><td><b>Working on:</b> Building mobile apps with <b>React Native</b> & <b>Expo</b></td></tr>
 <tr><td>🌱</td><td><b>Learning:</b> Applied Data Analysis • Convex Optimization • Design for Sustainability • ML Fundamentals</td></tr>
 <tr><td>🧰</td><td><b>Style:</b> Precise, minimal, robust. No fluff</td></tr>
 <tr><td>🌐</td><td><b>Languages:</b> French • English • Arabic</td></tr>
-<tr><td>⚡</td><td><b>Fun fact:</b> The harder the problem, the better my results</td></tr>
+<tr><td>⚡</td><td><b>Fun fact:</b> I once wrote an arcade game in pure ARM assembly for the Nintendo DS</td></tr>
 </table>
 
 <p>
@@ -28,16 +28,50 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[BIC Modeling In the Continuum](https://github.com/YDIB11/Bachelor-Project---BIC-Modeling-In-the-Continuum)**
+<br>Bachelor thesis — analytical modeling of Bound States in the Continuum (BIC) in metasurfaces. Where electromagnetics meets computation.
+<br>`Python` `Physics` `Metasurfaces`
+
+</td>
+<td width="50%">
+
+**[SwissDataExplorers](https://github.com/YDIB11/Swissdata)**
+<br>EPFL ADA project studying how public markets recognize innovation, tracking stock reactions to tech breakthroughs over time.
+<br>`Jekyll` `Plotly` `Data Analysis`
+<br>[🔗 Live site](https://ydib11.github.io/Swissdata/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[PerfumeShop](https://github.com/YDIB11/Perfumeshop)**
+<br>Modern e-commerce prototype for fragrances, built with React Native and Expo. Clean UI with cart, navigation, and product browsing.
+<br>`TypeScript` `React Native` `Expo`
+
+</td>
+<td width="50%">
+
+**[BasketFrenzy](https://github.com/YDIB11/BasketFrenzy)**
+<br>Nintendo DS homebrew arcade game written in ARM assembly. Catch basketballs before time runs out — built with devkitARM + libnds.
+<br>`Assembly` `Nintendo DS` `Embedded`
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 📊 Total Contributions
 <div align="center">
   <img src="https://github-readme-stats-six-lovat-57.vercel.app/api?username=YDIB11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4c5e9e&icon_color=4c569e&text_color=9f9f9f&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
-
----
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YDIB11&bg_color=0D1117&color=4c5e9e&line=4c569e&point=FFFFFF&area=true&hide_border=true&custom_title=Contributions" width="100%"/>
 
 ---
 
@@ -59,7 +93,7 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
   <tr>
     <td align="center" width="140"><b>💻 Languages</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js,nodejs&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js,ts&theme=dark" />
     </td>
   </tr>
   <tr>
