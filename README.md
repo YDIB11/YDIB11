@@ -34,9 +34,9 @@ I'm an M.Sc. student in Electrical & Electronics Engineering (focus: Machine Lea
 <tr>
 <td width="50%">
 
-**[BIC Modeling In the Continuum](https://github.com/YDIB11/Bachelor-Project---BIC-Modeling-In-the-Continuum)**
-<br>Bachelor thesis — analytical modeling of Bound States in the Continuum (BIC) in metasurfaces. Where electromagnetics meets computation.
-<br>`Python` `Physics` `Metasurfaces`
+**[The Lottery Ticket Hypothesis](https://github.com/YDIB11/The-Lottery-Ticket-Hypothesis)**
+<br>Reproduction of Frankle & Carlin (2019) — finding sparse, trainable subnetworks inside large neural networks. Iterative pruning on LeNet/MNIST.
+<br>`Python` `PyTorch` `Neural Network Pruning`
 
 </td>
 <td width="50%">
